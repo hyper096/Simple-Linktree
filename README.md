@@ -4,7 +4,7 @@ A clean, minimalist Linktree-style page to showcase all your important links in 
 
 ## 🌐 Preview
 
-![Preview](preview.png)
+![Preview](images/preview.png)
 
 ---
 
